@@ -21,8 +21,8 @@ repository               : "adelemusa.github.io/Adelaide.Teofani.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "fotp_job.jpg"
+  name             : "Adelaide Teofani"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
