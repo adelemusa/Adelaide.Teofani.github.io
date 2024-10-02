@@ -76,22 +76,12 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   manuscripts:
-    title: 'Journal Articles'
-    items:
-      - title: "Machine Learning Data Analysis Highlights the Role of Parasutterella and Alloprevotella in Autism Spectrum Disorders"
-        author: "Adelaide Teofani, et al."
-        journal: "Biomedicines"
-        year: 2022
-        url: "https://doi.org/10.3390/biomedicines10082028"
-        description: "This paper focuses on the role of gut microbiota in autism spectrum disorders, using machine learning to analyze microbiota differences."
+    title: "Machine Learning Data Analysis Highlights the Role of Parasutterella and Alloprevotella in Autism Spectrum Disorders"
+  manuscripts:
+    title: "Machine Learning Data Analysis Highlights the Role of Parasutterella and Alloprevotella in Autism Spectrum Disorders"
+       
       
-      - title: "Can Gut Microbiota Be a Good Predictor for Parkinson’s Disease? A Machine Learning Approach"
-        author: "Adelaide Teofani, et al."
-        journal: "Biomedicines"
-        year: 2021
-        url: "https://doi.org/10.3390/biomedicines10082028"
-        description: "This study investigates the potential of gut microbiota as a predictive biomarker for Parkinson’s disease using machine learning techniques."
-
+ 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
