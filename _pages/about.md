@@ -30,7 +30,7 @@ redirect_from:
 
 ## <i class="fa-solid fa-user-tie"></i> Current position
 
-<i class="fa fa-fw fa-calendar" aria-hidden="true"></i> `1 Nov. 2022 to Present`
+<i class="fa fa-fw fa-calendar" aria-hidden="true"></i> `15 March. 2023 to Present`
 
 <i class="fa-solid fa-building-columns"></i> *Postdoctoral Researcher at the University of Rome Tor Vergata* (Rome, Italy). 
 
@@ -44,7 +44,7 @@ redirect_from:
 
  Placenta-specific roles of TFEB in trophoblast differentiation into syncytiotrophoblast and its involvement in pathogenesis such as preeclampsia.
 
-<i class="fa fa-fw fa-calendar" aria-hidden="true"></i> `1 Sep. 2023 to Present`
+<i class="fa fa-fw fa-calendar" aria-hidden="true"></i> `1 Sep. 2024 to Present`
 
 <i class="fa-solid fa-building-columns"></i> 
 
