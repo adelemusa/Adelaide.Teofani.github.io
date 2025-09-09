@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Curriculum Vitae"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -13,21 +13,18 @@ Education
 ======
 * **Ph.D. in Biochemistry and Molecular Biology**, University of Rome Tor Vergata, 2019 – Jan 2023  
   * Thesis: *Application of Statistical and Machine Learning Methods in Clinical Metagenomics*  
-
 * **M.Sc. in Bioinformatics**, University of Rome Tor Vergata, 2016 – 2019  
-
 * **B.Sc. in Biological Sciences**, Sapienza University of Rome, 2012 – 2016  
-
 * **High School Diploma**, Liceo Scientifico “Lazzaro Spallanzani,” Tivoli (RM), 2011  
 
-Research and Professional Experience
+Work experience
 ======
 * **Postdoctoral Researcher**, University of Rome Tor Vergata, Mar 2023 – Present  
   * Development of bioinformatics methods for omics data analysis with a focus on RNA.  
-  * Teaching: *Co-lecturer, Molecular Biology and Bioinformatics (Bioinformatics module, 2 CFU).*  
+  * Co-lecturer in the course *Molecular Biology and Bioinformatics* (Bioinformatics module, 2 CFU).  
 
 * **PhD Researcher**, University of Rome Tor Vergata, Oct 2019 – Jan 2023  
-  * Applied statistical and machine learning methods (SVM, Random Forest, GBM, Neural Networks, SHAP) to clinical metagenomics.  
+  * Application of statistical and machine learning methods (SVM, Random Forest, GBM, Neural Networks, SHAP) to clinical metagenomics.  
 
 * **Research Intern**, CNR – IASI, Rome, Oct 2018 – Mar 2019  
   * Developed machine learning methods to predict transcriptome features from chemical/enzymatic probing data.  
@@ -39,15 +36,15 @@ Research and Professional Experience
 
 Specialized Training
 ======
-* **High Performance Bioinformatics**, Cineca (Jan – Mar 2021)  
-  * Parallel execution on HPC, Snakemake pipelines, large-scale data transfer.  
+* **High Performance Bioinformatics**, Cineca, Webinar, Jan – Mar 2021  
+  * Large-scale file transfer, HPC environment setup, parallel program execution, Snakemake pipelines.  
 
-* **Java Academy**, Scai Group, Rome (May – Jul 2019)  
+* **Java Academy**, Scai Group, Rome, May – Jul 2019  
   * Java, relational databases, J2EE, Spring, Hibernate, Maven, REST APIs.  
 
 Skills
 ======
-* **Bioinformatics:** NGS analysis (RNA-seq, circRNA, miRNA), metagenomics (16S, WGS).  
+* **Bioinformatics:** NGS data analysis (RNA-seq, circRNA, miRNA), metagenomics (16S, WGS).  
 * **Machine Learning & AI:** scikit-learn, TensorFlow, Keras; explainability methods (SHAP).  
 * **Programming:** Python (advanced), R (advanced), Bash (advanced), SQL (advanced), PHP/HTML/CSS (advanced), Java (basic), C (basic), Ruby (basic).  
 * **Systems:** Linux, Windows.  
@@ -78,6 +75,6 @@ Teaching
   {% include archive-single-cv.html %}
 {% endfor %}</ul>
 
-Service and Leadership
+Service and leadership
 ======
-* Co-lecturer, Molecular Biology and Bioinformatics course, University of Rome Tor Vergata (2023 – present)  
+* Co-lecturer, *Molecular Biology and Bioinformatics* course, University of Rome Tor Vergata (2023 – present)  
