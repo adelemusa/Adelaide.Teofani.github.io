@@ -14,11 +14,7 @@ redirect_from:
 
 👨🏻‍💻 Postdoc researcher in Bioinformatics at Tor Vergata University of Rome.
 
-:mag_right: Mainly interested in metagenomics, genomics and bioinformatic algorithm develpment.
-
-⌨️ But I'm also a very interested in data science, machine learning and natural language processing (NLP).
-
-✨ and in learning more about large language models!
+:mag_right: Mainly interested in Genomics, next-generation sequencing (NGS) data analysis, functional characterization of long non-coding RNAs (lncRNAs), metagenomics, bioinformatics tool and software development, and applications of artificial intelligence in life sciences.
 
 🧬 I'm Currently working on:
 
