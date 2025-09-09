@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,54 +11,73 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Ph.D. in Biochemistry and Molecular Biology**, University of Rome Tor Vergata, 2019 – Jan 2023  
+  * Thesis: *Application of Statistical and Machine Learning Methods in Clinical Metagenomics*  
 
-Work experience
+* **M.Sc. in Bioinformatics**, University of Rome Tor Vergata, 2016 – 2019  
+
+* **B.Sc. in Biological Sciences**, Sapienza University of Rome, 2012 – 2016  
+
+* **High School Diploma**, Liceo Scientifico “Lazzaro Spallanzani,” Tivoli (RM), 2011  
+
+Research and Professional Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Postdoctoral Researcher**, University of Rome Tor Vergata, Mar 2023 – Present  
+  * Development of bioinformatics methods for omics data analysis with a focus on RNA.  
+  * Teaching: *Co-lecturer, Molecular Biology and Bioinformatics (Bioinformatics module, 2 CFU).*  
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **PhD Researcher**, University of Rome Tor Vergata, Oct 2019 – Jan 2023  
+  * Applied statistical and machine learning methods (SVM, Random Forest, GBM, Neural Networks, SHAP) to clinical metagenomics.  
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* **Research Intern**, CNR – IASI, Rome, Oct 2018 – Mar 2019  
+  * Developed machine learning methods to predict transcriptome features from chemical/enzymatic probing data.  
+
+* **Consultant (Web Developer)**, Gruppo Scai S.p.A., Rome, Aug 2019 – Oct 2019  
+
+* **Research Intern**, Sapienza University of Rome, Nov 2015 – Mar 2016  
+  * Isolated *Arabidopsis thaliana* double mutant for DAG1 and DAG2 (Zinc Finger genes).  
+
+Specialized Training
+======
+* **High Performance Bioinformatics**, Cineca (Jan – Mar 2021)  
+  * Parallel execution on HPC, Snakemake pipelines, large-scale data transfer.  
+
+* **Java Academy**, Scai Group, Rome (May – Jul 2019)  
+  * Java, relational databases, J2EE, Spring, Hibernate, Maven, REST APIs.  
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Bioinformatics:** NGS analysis (RNA-seq, circRNA, miRNA), metagenomics (16S, WGS).  
+* **Machine Learning & AI:** scikit-learn, TensorFlow, Keras; explainability methods (SHAP).  
+* **Programming:** Python (advanced), R (advanced), Bash (advanced), SQL (advanced), PHP/HTML/CSS (advanced), Java (basic), C (basic), Ruby (basic).  
+* **Systems:** Linux, Windows.  
+
+Technical Competencies
+======
+* **Workflow Automation:** Nextflow, Snakemake.  
+* **Containerization & Deployment:** Docker.  
+* **Environment Management:** Conda/Anaconda.  
+* **Version Control:** Git.  
+* **Interactive Development:** Jupyter Notebook.  
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+<ul>{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+<ul>{% for post in site.talks reversed %}
+  {% include archive-single-talk-cv.html %}
+{% endfor %}</ul>
+
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+<ul>{% for post in site.teaching reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+
+Service and Leadership
 ======
-* Currently signed in to 43 different slack teams
+* Co-lecturer, Molecular Biology and Bioinformatics course, University of Rome Tor Vergata (2023 – present)  
