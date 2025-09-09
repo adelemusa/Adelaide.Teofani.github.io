@@ -20,9 +20,13 @@ redirect_from:
 
 ✨ and in learning more about large language models!
 
-🧬 I'm currently working on cancer metabolism, the research of a modular organization of lncRNA genes and on NLP-based representation methods for biological sequences for machine learning analysis.
+🧬 I'm Currently working on:
 
+1) TFEB in Placental Development: Unraveling the unknown, placenta-specific roles of TFEB, particularly its involvement in trophoblast differentiation into syncytiotrophoblast.
 
+2) Stemness Mechanisms in Glioblastoma: Exploring the molecular pathways that sustain glioblastoma stem-like cells, with a focus on how they drive tumor growth, therapy resistance, and recurrence.
+
+3) RNA Secondary Structure Alignment: Developing and applying computational methods for structure-aware RNA alignment to identify conserved structural motifs in coding and non-coding RNAs.
 
 ## <i class="fa-solid fa-user-tie"></i> Current position
 
@@ -32,18 +36,16 @@ redirect_from:
 
 <i class="fa-solid fa-people-group"></i> Reporting to Prof. Manuela Helmer-Citterich and Prof. Pier Federico Gherardini.
 
-Development of bioinformatics methods for RNA omics data analysis
-
 <i class="fa fa-fw fa-calendar" aria-hidden="true"></i> `1 Oct. 2023 to Present`
 
-<i class="fa-solid fa-building-columns"></i> *Teacher of Computational Biology for the master degree in Bioinformatics at the University of Rome Tor Vergata* (Rome, Italy).
+<i class="fa-solid fa-building-columns"></i> *Teacher of Bioinformatics for the master degree in Medical Biotechnology at the University of Rome Tor Vergata* (Rome, Italy).
 
 ## <i class="fa-solid fa-magnifying-glass"></i> Collaborations
 
-<i class="fa fa-fw fa-calendar" aria-hidden="true"></i> `1 Sep. 2022 to Present`
+ Placenta-specific roles of TFEB in trophoblast differentiation into syncytiotrophoblast and its involvement in pathogenesis such as preeclampsia.
 
-<i class="fa-solid fa-building-columns"></i> *Zappasodi lab at Weill Cornell Medical College* (New York, USA). 
+<i class="fa fa-fw fa-calendar" aria-hidden="true"></i> `1 Sep. 2023 to Present`
 
-<i class="fa-solid fa-people-group"></i> Reporting to Prof. Roberta Zappasodi
+<i class="fa-solid fa-building-columns"></i> 
 
-Effects of glycolysis alteration on tumors and their microenvironment
+<i class="fa-solid fa-people-group"></i> Reporting to Prof. Pier Federico Gherardini from Tor Veragata University of Rome, Prof. Marcella Cesana adn Prof. Diego Medina from TIGEM (Telethon Institute of Genetics and Medicine) and Prof. Julie Martone from Sapienza University of Rome.
