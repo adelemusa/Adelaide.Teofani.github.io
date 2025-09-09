@@ -71,7 +71,3 @@ Publications
 Teaching
 ======
 * **Co-lecturer**, *Molecular Biology and Bioinformatics* (Bioinformatics module, 2 CFU), University of Rome Tor Vergata (2023 – present)  
-
-<ul>{% for post in site.teaching reversed %}
-  {% include archive-single-cv.html %}
-{% endfor %}</ul>
