@@ -11,7 +11,30 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
+<h2>Selected Publications</h2>
+<ul>
+  <li><strong>2024</strong> Francesco Ballesio, Adelaide Teofani, Chiara Carrino, Mario Catalano, Mihail Lorentz Nicolaeasa, Gabriele Ausiello, Manuela Helmer-Citterich, Pier Federico Gherardini. <em>Beagle 2.0: A Web Server for RNA Secondary Structure Similarity Detection Leveraging Shape-Directed RNA Structure Determination.</em> SSRN 5042670.</li>
+
+  <li><strong>2024</strong> Marta Ballanti, Lorenzo Antonetti, Maria Mavilio, Viviana Casagrande, Alessandro Moscatelli, Daniele Pietrucci, Adelaide Teofani, Chiara Internò, Marina Cardellini, Omero Paoluzi, Giovanni Monteleone, Philippe Lefebvre, Bart Staels, Geltrude Mingrone, Rossella Menghini, Massimo Federici. <em>Decreased circulating IPA levels identify subjects with metabolic comorbidities: A multi-omics study.</em> Pharmacological Research, 204, 107207. DOI: 10.1016/j.phrs.2024.107207</li>
+
+  <li><strong>2024</strong> Adelaide Teofani, Antonio Libonati, Valeria Unida, Silvia Biocca, Alessandro Desideri, Vincenzo Campanella. <em>Coronal and Root Canal Microbiota in Apical Periodontitis with Different PAI.</em> Microorganisms, 12(8), 1518. DOI: 10.3390/microorganisms12081518</li>
+
+  <li><strong>2023</strong> Stefano Rizza, Daniele Pietrucci, Susanna Longo, Rossella Menghini, Adelaide Teofani, Giacomo Piciucchi, Martina Montagna, Massimo Federici. <em>Impact of insulin degludec/liraglutide fixed combination on the gut microbiomes of elderly patients with type 2 diabetes: results from a subanalysis of a small non-randomised study.</em> Aging and Disease, 14(2), 319. DOI: 10.14336/AD.2023.0315</li>
+
+  <li><strong>2022</strong> Adelaide Teofani, Irene Marafini, Federica Laudisi, Daniele Pietrucci, Silvia Salvatori, Valeria Unida, Silvia Biocca, Giovanni Monteleone, Alessandro Desideri. <em>Intestinal taxa abundance and diversity in inflammatory bowel disease patients: An analysis including covariates and confounders.</em> Nutrients, 14(2), 260. DOI: 10.3390/nu14020260</li>
+
+  <li><strong>2022</strong> Daniele Pietrucci, Adelaide Teofani, Marco Milanesi, Bruno Fosso, Lorenza Putignani, Francesco Messina, Graziano Pesole, Alessandro Desideri, Giovanni Chillemi. <em>Machine Learning Data Analysis Highlights the Role of Parasutterella and Alloprevotella in Autism Spectrum Disorders.</em> Biomedicines, 10(8), 2028. DOI: 10.3390/biomedicines10082028</li>
+
+  <li><strong>2022</strong> Rocco Cerroni, Daniele Pietrucci, Adelaide Teofani, Giovanni Chillemi, Claudio Liguori, Mariangela Pierantozzi, Valeria Unida, Sidorela Selmani, Nicola Biagio Mercuri, Alessandro Stefani. <em>Not just a snapshot: An Italian longitudinal evaluation of stability of gut microbiota findings in Parkinson’s disease.</em> Brain Sciences, 12(6), 739. DOI: 10.3390/brainsci12060739</li>
+
+  <li><strong>2022</strong> Federica Laudisi, Carmine Stolfi, Gerolamo Bevivino, Claudia Maresca, Eleonora Franze, Edoardo Troncone, Elisabetta Lolli, Irene Marafini, Daniele Pietrucci, Adelaide Teofani, Antonio Di Grazia, Davide Di Fusco, Alfredo Colantoni, Angela Ortenzi, Alessandro Desideri, Ivan Monteleone, Giovanni Monteleone. <em>GATA6 deficiency leads to epithelial barrier dysfunction and enhances susceptibility to gut inflammation.</em> Journal of Crohn’s and Colitis, 16(2), 301-311. DOI: 10.1093/ecco-jcc/jjab141</li>
+
+  <li><strong>2020</strong> Daniele Pietrucci, Adelaide Teofani, Valeria Unida, Rocco Cerroni, Silvia Biocca, Alessandro Stefani, Alessandro Desideri. <em>Can gut microbiota be a good predictor for Parkinson’s disease? A machine learning approach.</em> Brain Sciences, 10(4), 242. DOI: 10.3390/brainsci10040242</li>
+</ul>
+
+<hr />
+
+<!-- Original Jekyll auto-loop -->
 {% if site.publication_category %}
   {% for category in site.publication_category  %}
     {% assign title_shown = false %}
@@ -31,6 +54,3 @@ author_profile: true
     {% include archive-single.html %}
   {% endfor %}
 {% endif %}
-
-
-
